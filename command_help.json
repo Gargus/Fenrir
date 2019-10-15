@@ -1,0 +1,206 @@
+{
+  "bank": {
+    "addon": "Economy",
+    "usage": "[@user]",
+    "description": "Check your accumulated currency",
+    "examples": [
+      ".bank @Hampe",
+      ".bank"
+    ]
+  },
+  "bet": {
+  "addon": "Economy",
+  "usage": "[option] [amount]",
+  "description": "Gamble your currency on a 50/50 coin toss",
+  "examples": [".bet h 10", ".bet t 10", ".bet heads 10", ".bet tails 10"]
+  },
+
+  "steal": {
+  "addon": "Economy",
+  "usage": "[@user]",
+  "description": "Steal currency from another user",
+  "examples": [".steal @Hampe"]
+  },
+
+  "bam": {
+  "addon": "Fun",
+  "usage": "[@user]",
+  "description": "Bam someone back to the realm they came from!",
+  "examples": [".bam @Hampe"]
+  },
+  "whip": {
+  "addon": "Fun",
+  "usage": "[@user]",
+  "description": "Whip someone into submission!",
+  "examples": [".whip @Hampe"]
+  },
+  "convert": {
+  "addon": "Economy",
+  "usage": "",
+  "description": "Obtain currency for your leaderboard statistics",
+  "examples": [".convert"]
+  },
+
+  "gift": {
+  "addon": "Economy",
+  "usage": "[@user] [amount]",
+  "description": "Give away your currency as a gift so someone else",
+  "examples": [".gift @Hampe 100"]
+  },
+
+  "autowork": {
+  "addon": "Premium",
+  "usage": "",
+  "description": "Enables a service that automatically works for you",
+  "examples": [".autowork"]
+  },
+
+  "work": {
+  "addon": "Economy",
+  "usage": "",
+  "description": "Work to obtain currency",
+  "examples": [".work"]
+  },
+
+  "eco": {
+  "addon": "Economy",
+  "usage": "",
+  "description": "List the top 10 users with the most currency",
+  "examples": [".eco"]
+  },
+
+  "dashboard": {
+  "addon": "Dashboard",
+  "usage": "",
+  "description": "Using the dashboard will let you configure various commands and addons",
+  "examples": [".dashboard"]
+  },
+
+  "prefixswap": {
+  "addon": "Dashboard",
+  "usage": "[prefix]",
+  "description": "Changes the prefix for the bot",
+  "examples": [".prefix >", ".prefix !"]
+  },
+  "reward": {
+  "addon": "Economy",
+  "usage": "[@user] [amount]",
+  "description": "Creates currency for a user",
+  "examples": [".reward @Hampe 100"]
+  },
+
+  "strip": {
+  "addon": "Economy",
+  "usage": "[@user] [amount]",
+  "description": "Removes currency from a user",
+  "examples": [".strip @Hampe 100"]
+  },
+
+  "channel": {
+  "addon": "Automod",
+  "usage": "[option] [feature] [#channel]",
+  "description": "Apply or remove rules from certain channels",
+  "examples": [".channel add image_check #selfies"]
+  },
+
+  "marry": {
+  "addon": "Marriage",
+  "usage": "[@user]",
+  "description": "Propose to another user",
+  "examples": [".marry @Hampe"]
+  },
+  "accept": {
+    "addon": "Marriage",
+    "usage": "[@user]",
+    "description": "Accepts a proposal",
+    "examples": [".accept [@user]"]
+  },
+  "decline": {
+    "addon": "Marriage",
+    "usage": "[@user]",
+    "description": "Declines a proposal",
+    "examples": [".decline [@user]"]
+
+  },
+  "marriage": {
+  "addon": "Marriage",
+  "usage": "[@user]",
+  "description": "Displays the marital status of a user",
+  "examples": [".marriage [@user]", ".marriage"]
+  },
+
+  "divorce": {
+  "addon": "Marriage",
+  "usage": "",
+  "description": "Divorces the user you're married to",
+  "examples": [".divorce"]
+  },
+
+  "claim": {
+  "addon": "Economy",
+  "usage": "",
+  "description": "Claim currency for voting",
+  "examples": [".claim"]
+  },
+
+  "help": {
+  "addon": "General",
+  "usage": "",
+  "description": "Displays a list of commands and what they do",
+  "examples": [".help"]
+  },
+
+  "avatar": {
+  "addon": "General",
+  "usage": "[size] [@user]",
+  "description": "Display a users avatar",
+  "examples": [".avatar big @Hampe", ".avatar @hampe", "avatar"]
+  },
+
+  "profile": {
+  "addon": "General",
+  "usage": "[@user]",
+  "description": "Display a users profile",
+  "examples": [".profile @Hampe", ".profile"]
+  },
+
+
+  "lb": {
+  "addon": "Leaderboard",
+  "usage": "[board]",
+  "description": "Display a leaderboard",
+  "examples": [".lb", ".lb global"]
+  },
+
+  "rank": {
+  "addon": "Leaderboard",
+  "usage": "[@user] / [position]",
+  "description": "Display a players position in the leaderboard",
+  "examples": [".rank", ".rank @Hampe", ".rank 13"]
+  },
+
+  "theme": {
+  "addon": "General",
+  "usage": "",
+  "description": "Gives you options to change your theme",
+  "examples": [".theme"]
+  },
+
+  "quote": {
+  "addon": "Premium",
+  "usage": "",
+  "description": "Enter your own quote that will be displayed in the Hall of Fame",
+  "examples": [".quote"]
+  },
+
+  "shop": {
+  "addon": "Economy",
+  "usage": "[option] [item]",
+  "description": "Display / Purchase items from the shop",
+  "examples": [".shop perks", ".shop trophies", ".shop purchase Luma"]
+  }
+
+
+
+
+}

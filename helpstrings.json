@@ -1,0 +1,11 @@
+{
+    "lb": "Displays weekly activity",
+    "bank": "Displays bank balance",
+    "rank": "Displays current weekly activity rank",
+    "work": "Earn {} through work",
+    "steal": "Steals from a user",
+    "avatar": "Displays user profile picture",
+    "marry": "Sends marriage proposal to user (10000 {})",
+    "marriage": "Displays marriage status"
+
+}

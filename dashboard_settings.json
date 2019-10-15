@@ -1,0 +1,43 @@
+{
+    "EconomyCog": {
+        "currency": {
+            "help_string": "Insert the name of the new currency. One word or emoji.",
+            "type": "wildcard",
+            "dtype": "single"
+        }
+    },
+    "PickupCog": {
+        "channel": {
+            "help_string": "Insert the channels where drops are supposed to spawn",
+            "type": "channel",
+            "dtype": "list"
+        },
+        "drops": {
+            "roles": {
+                "help_string": "Insert the roles that you should be able to obtain through drops",
+                "type": "role",
+                "dtype": "list"
+            }
+        }
+    },
+    "LeaderboardCog": {
+        "channel": {
+            "help_string": "Insert the channel(s) where messages should be counted towards the leaderboard. If multiple, separate them by commas. To select all the channels, enter the value 'all'",
+            "type": "channel",
+            "dtype": "list"
+        },
+        "result": {
+            "help_string": "Insert the channel where the result of the weekly leaderboard should be sent to",
+            "type": "channel",
+            "dtype": "single"
+        }
+    },
+    "FunCog": {
+    },
+    "GeneralCog": {
+    },
+    "MarriageCog": {
+    },
+    "ShopCog": {
+    }
+}

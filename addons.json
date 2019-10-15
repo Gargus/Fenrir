@@ -1,0 +1,33 @@
+{
+    "settings": {
+        "EconomyCog": {
+            "currency": {
+                "value": "<a:linkrupee:472882141403938836>"
+            }
+        },
+        "PickupCog": {
+            "channel": {
+                "value": []
+            },
+            "drops": {
+            }
+        },
+        "LeaderboardCog": {
+            "channel": {
+                "value": []
+
+            },
+            "result": {
+                "value": []
+            }
+        },
+        "FunCog": {
+        },
+        "GeneralCog": {
+        },
+        "MarriageCog": {
+        },
+        "ShopCog": {
+        }
+    }
+}

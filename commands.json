@@ -1,0 +1,831 @@
+{
+    "accept": {
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]"
+        }
+    },
+    "autowork": {
+        "addon_info": {
+            "addon_name": "Premium"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": "Works automatically whenever cooldown is done"
+        }
+    },
+    "avatar": {
+        "addon_info": {
+            "addon_name": "General"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays user avatar"
+        }
+    },
+    "bam": {
+        "addon_info": {
+            "addon_name": "Fun"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "{}{} [@user]",
+            "help_string": "Release the mighty bam-hammer!"
+        }
+    },
+    "bank": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {
+            "deposit": {
+                "help_string": "",
+                "type": "",
+                "value": ""
+            },
+            "fuckery": {
+                "help_string": "",
+                "type": "",
+                "value": ""
+            },
+            "shit": {
+                "help_string": "",
+                "type": "",
+                "value": ""
+            }
+        },
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays bank balance"
+        }
+    },
+    "bet": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {
+            "options": {
+                "heads": {
+                    "help_string": "",
+                    "type": "",
+                    "value": [
+                        "h",
+                        "heads"
+                    ]
+                },
+                "tails": {
+                    "help_string": "",
+                    "type": "",
+                    "value": [
+                        "t",
+                        "tails"
+                    ]
+                }
+            },
+            "urls": {
+                "heads": "https://cdn.discordapp.com/attachments/366306537725100033/466400320344424449/fenrir2.png",
+                "tails": "https://cdn.discordapp.com/attachments/366306537725100033/466400320344424449/fenrir2.png"
+            }
+        },
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [option] [amount]",
+            "help_string": "Bet {} on coin flips"
+        }
+    },
+    "break": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "callout": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "channel": {
+        "addon_info": {
+            "addon_name": "Dashboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "mod",
+        "strings": {
+            "error_string": "",
+            "help_string": "Add rules to channels"
+        }
+    },
+    "claim": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": "Claims a reward for voting"
+        }
+    },
+    "clean": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "convert": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Converts leaderboard messages to currency"
+        }
+    },
+    "create": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "dashboard": {
+        "addon_info": {
+            "addon_name": "Dashboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "mod",
+        "strings": {
+            "error_string": "",
+            "help_string": "Change server settings"
+        }
+    },
+    "decline": {
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]"
+        }
+    },
+    "divorce": {
+        "addon_info": {
+            "addon_name": "Marriage"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]",
+            "help_string": "Divorces user"
+        }
+    },
+    "eco": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays currency leaderboard"
+        }
+    },
+    "eval": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "gift": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user] [amount]",
+            "help_string": "Gift {} to a user"
+        }
+    },
+    "guilds": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "help": {
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": ""
+        }
+    },
+    "json_command": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "lb": {
+        "addon_info": {
+            "addon_name": "Leaderboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays weekly activity"
+        },
+        "subcommands": {
+            "global": {
+                "strings": {
+                    "help_string": "Displays global weekly activity"
+                }
+            }
+        }
+    },
+    "leave": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "list_commands": {
+        "command": {},
+        "embed": {
+            "active": true
+        }
+    },
+    "marriage": {
+        "addon_info": {
+            "addon_name": "Marriage"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays marriage status"
+        }
+    },
+    "marry": {
+        "addon_info": {
+            "addon_name": "Marriage"
+        },
+        "command": {
+            "toggle_help": true
+        },
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]",
+            "help_string": "Sends marriage proposal to user"
+        }
+    },
+    "members": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "migrate": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "prefixswap": {
+        "addon_info": {
+            "addon_name": "Dashboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "{}{} [new prefix]",
+            "help_string": "Change the bot prefix"
+        }
+    },
+    "profile": {
+        "addon_info": {
+            "addon_name": "General"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays user profile"
+        }
+    },
+    "quote": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "rank": {
+        "addon_info": {
+            "addon_name": "Leaderboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Displays current weekly activity rank"
+        }
+    },
+    "redis": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "redis_dump": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "region_time": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "reload": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "reward": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "mod",
+        "strings": {
+            "error_string": "{}{} [@user] [+amount]",
+            "help_string": "Reward a user with an amount of {}"
+        }
+    },
+    "servers": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "set_channel": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "set_command": {
+        "command": {},
+        "embed": {
+            "active": true
+        }
+    },
+    "setalias": {
+        "addon_info": {
+            "addon_name": "Dashboard"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "mod",
+        "strings": {
+            "help_string": "Change command names (does not work on subcommands)"
+        }
+    },
+    "settime": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "shop": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "",
+            "help_string": "Display and purchase perks and trophies"
+        }
+    },
+    "speak": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "sql": {
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "owner"
+    },
+    "steal": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]",
+            "help_string": "Steals from a user"
+        }
+    },
+    "strip": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "mod",
+        "strings": {
+            "error_string": "{}{} [@user] [+amount]",
+            "help_string": "Strip a user with an amount of {}"
+        }
+    },
+    "test": {
+        "command": {
+            "heads_url": "https://cdn.discordapp.com/attachments/366306537725100033/466400320344424449/fenrir2.png",
+            "tails_url": "https://cdn.discordapp.com/attachments/366306537725100033/466400320344424449/fenrir2.png"
+        },
+        "embed": {
+            "active": false
+        }
+    },
+    "theme": {
+        "addon_info": {
+            "addon_name": "General"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": "Change your command theme"
+        }
+    },
+    "transfer": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "transfer_marriage": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "trigger": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "unequip": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "uptime": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "help_string": ""
+        }
+    },
+    "viking": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "webhelp": {
+        "addon_info": {
+            "addon_name": ""
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "permission": "",
+        "strings": {
+            "error_string": "",
+            "help_string": ""
+        }
+    },
+    "whip": {
+        "addon_info": {
+            "addon_name": "Fun"
+        },
+        "command": {
+            "custom_url": {
+                "help_string": "",
+                "type": "",
+                "value": ""
+            },
+            "damage": {
+                "help_string": "",
+                "type": "",
+                "value": ""
+            }
+        },
+        "embed": {
+            "active": true
+        },
+        "permission": "everyone",
+        "strings": {
+            "error_string": "{}{} [@user]",
+            "help_string": "Whip someone who deserve it!"
+        }
+    },
+    "work": {
+        "addon_info": {
+            "addon_name": "Economy"
+        },
+        "command": {},
+        "embed": {
+            "active": true
+        },
+        "strings": {
+            "error_string": "",
+            "help_string": "Earn {} through work"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "perks":
+    {
+        "prices":[
+            10000,
+            10000,
+            20000,
+            10000,
+            20000,
+            30000
+
+        ],
+        "effects": [
+            "- Doubles work earnings",
+            "- Doubles steal amount",
+            "- Decreases work/steal rest duration from four to one hour",
+            "- +100% message-to-{} conversion multiplier",
+            "- +100% message-to-{} conversion multiplier",
+            "- +100% message-to-{} conversion multiplier"
+
+
+        ],
+        "names":[
+            "Degree",
+            "Incognito",
+            "Hourglass",
+            "Keycard",
+            "Bank",
+            "Arbitrage"
+        ],
+        "emotes": [
+            ":mortar_board:",    
+            ":spy::skin-tone-1:",
+            ":hourglass_flowing_sand:",
+            ":credit_card:",
+            ":bank:", 
+            ":money_with_wings:"
+        ]
+
+    },
+    "collectibles":
+    {
+        "prices":[
+
+            10000,
+            20000,
+            30000,
+            50000,
+            80000,
+            100000,
+            125000,
+            150000,
+            175000,
+            200000,
+            225000,
+            250000,
+            275000,
+            300000,
+            350000,
+            400000
+        ],
+        "names":[
+            "Luma",
+            "Pusheen",
+            "Kirby",
+            "Clank",
+            "Catbug",
+            "Groot",
+            "Arcanine",
+            "Rick",
+            "Cuphead",
+            "Mario",
+            "Ratchet",
+            "Moogle",
+            "Totoro",
+            "Pikachu",
+            "Link",
+            "Smaug"
+        ],
+        "emotes": [
+            "<:luma:480797244870754324>",
+            "<:pusheen:480797244107259904>",
+            "<:kirby:480797244929343508>",
+            "<:clank:480797248137986050>",
+            "<:catbug:480797239456038912>",
+            "<:groot:480797247441862656>",
+            "<:arcanine:480797239401250853>",
+            "<:rick:480797237866397697>",
+            "<:cuphead:480797246896472065>",
+            "<:mario:480797237367275524>",
+            "<:ratchet:480797247873744898>",
+            "<:moogle:480797243411005441>",
+            "<:totoro:480797249530494979>",
+            "<:pikachu:480797245554556939>",
+            "<:link:480797246795808778>",
+            "<:smaug:480797247655772161>"
+        ]
+    }
+}

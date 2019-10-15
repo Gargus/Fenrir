@@ -1,0 +1,30 @@
+{
+    "black": {
+        "url": "https://cdn.discordapp.com/attachments/366306537725100033/466400320344424449/fenrir2.png",
+        "hex": "0x222020"
+    },
+    "blue": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507569420202278913/fenrir_blue_62.png",
+        "hex": "0x2f82a5"
+    },
+    "gold": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507348257282981898/fenrir2_gold.png",
+        "hex": "0xa58c07"
+    },
+    "green": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507569427152240642/fenrir_green_62.png",
+        "hex": "0x07a556"
+    },
+    "purple": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507574475534106626/fenrir_purple_62_3.png",
+        "hex": "0x7e2488"
+    },
+    "redish": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507569444063674369/fenrir_redish_62.png",
+        "hex": "0xa54646"
+    },
+    "red": {
+        "url": "https://cdn.discordapp.com/attachments/478610371435954200/507569440964083721/fenrir_red_62.png",
+        "hex": "0xa52f2f"
+    }
+}
