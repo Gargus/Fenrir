@@ -1,0 +1,2 @@
+# Fenrir
+Multipurpose discord bot
